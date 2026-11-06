@@ -1,6 +1,6 @@
 # Hear I am · Privacy & Support
 
-기존 https://heariam.web.app/ 디자인을 이어받은 독립 정적 사이트입니다. 별도 빌드·JavaScript·추적 스크립트 없이 동작합니다.
+기존 https://heariam.web.app/ 디자인을 이어받은 독립 정적 사이트입니다. 별도 빌드·추적 스크립트 없이 동작합니다. FAQ는 작은 로컬 JavaScript로 펼침·접힘을 애니메이션 처리하며, JavaScript 없이도 기본 details 요소로 사용할 수 있습니다.
 
 ## 운영 정보
 
